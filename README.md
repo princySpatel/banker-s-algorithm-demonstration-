@@ -23,8 +23,8 @@ The engine strictly follows Dijkstra's Banker's Algorithm for deadlock avoidance
 ##  Installation & Setup
 ```bash
   #Clone the repository:
-  git clone [https://github.com/yourusername/os-bankers-simulation.git](https://github.com/yourusername/os-bankers-simulation.git)
-  cd os-bankers-simulation
+  git clone [https://github.com/princySpatel/banker-s-algorithm-demonstration-.git](https://github.com/princySpatel/banker-s-algorithm-demonstration-.git)
+  cd banker-s-algorithm-demonstration-
 ```
 ```bash
   #Install the required dependencies:
